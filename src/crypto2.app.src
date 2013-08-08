@@ -1,7 +1,8 @@
 {application, crypto2,
  [
   {description, ""},
-  {vsn, git},
+  {vsn, "0.0.1"},
   {registered, []},
+  {modules, []},
   {env, []}
  ]}.
